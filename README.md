@@ -6,7 +6,8 @@ This project was executed to refactor, as in improving and correcting, the seman
 # Screenshots
 <img width="1470" alt="Screenshot 2023-09-10 at 12 37 05 PM" src="https://github.com/zamatheson/Horiseon-Accessibility-Project/assets/140024933/40fea61f-2228-460e-ac07-f45f218126a4">
 
-<img width="1470" alt="Screenshot 2023-09-10 at 12 37 18 PM" src="https://github.com/zamatheson/Horiseon-Accessibility-Project/assets/140024933/3be4a7a4-a530-427e-832a-996cf5f43e0e">
+<img width="1470" alt="Screenshot 2023-09-10 at 12 37 18 PM" src="https://github.com/zamatheson/Horiseon-Accessibility-Project/assets/140024933/02b38ed8-d4a6-4d50-9bac-4d664aa767ac">
+
 
 
 # URL
