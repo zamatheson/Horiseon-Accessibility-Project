@@ -1,3 +1,4 @@
+/* Body Style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* === Header Styles === */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Navigation Styles */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Main Image Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +73,7 @@ p {
     margin-left: 25px;
 }
 
+/* Main Content Style */
 .content {
     width: 75%;
     display: inline-block;
@@ -161,6 +166,7 @@ p {
     color: #ffffff;
 }
 
+/* Companion Image Style */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -188,6 +194,7 @@ p {
     font-size: 36px;
 }
 
+/* === Footer Style === */
 .footer {
     padding: 30px;
     clear: both;
